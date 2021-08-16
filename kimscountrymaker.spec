@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['kimscountrymaker.py'],
-             pathex=['C:\\Users\\Kimig\\OneDrive\\Documents\\l\\exe'],
+             pathex=['C:\\Users\\Kimig\\OneDrive\\Documents\\l\\exe\\Beta v1.0.3 icon update'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -37,4 +37,4 @@ exe = EXE(pyz,
           disable_windowed_traceback=False,
           target_arch=None,
           codesign_identity=None,
-          entitlements_file=None )
+          entitlements_file=None , icon='profile.ico')
