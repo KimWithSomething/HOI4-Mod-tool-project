@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['kimscountrymaker.py'],
-             pathex=['C:\\Users\\Kimig\\OneDrive\\Documents\\l\\exe\\Beta v1.0.3 icon update'],
+             pathex=["C:\\Users\\Kimig\\OneDrive\\Documents\\l\\exe\\Beta v1.0.3 Leader's patch 2"],
              binaries=[],
              datas=[],
              hiddenimports=[],

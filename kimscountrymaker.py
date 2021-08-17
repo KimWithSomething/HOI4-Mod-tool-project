@@ -5,7 +5,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 
 
-verison ='Release 1.0.3'
+verison ="Beta V1.0.3 Leader's patch"
 debugmode= True
 xy = 0
 finalAW=[]
@@ -286,16 +286,16 @@ def main():
                     cmlD = 'stalinism'
                     printproblems('country leader4 idea', cmlD,leaderd)
             
-                if leaderd.get() == '"non aligned -despotism':
+                if leaderd.get() == 'non aligned -despotism':
                     cmlD = 'despotism'
                     printproblems('country leader4 idea', cmlD,leaderd)
-                if leaderd.get() == '"non aligned -oligarchism':
+                if leaderd.get() == 'non aligned -oligarchism':
                     cmlD = 'oligarchism'
                     printproblems('country leader4 idea', cmlD,leaderd)
-                if leaderd.get() == '"non aligned -moderatism':
+                if leaderd.get() == 'non aligned -moderatism':
                     cmlD = 'moderatism'
                     printproblems('country leader4 idea', cmlD,leaderd)
-                if leaderd.get() == '"non aligned -centrism':
+                if leaderd.get() == 'non aligned -centrism':
                     cmlD = 'centrism'
                     printproblems('country leader4 idea', cmlD,leaderd)
                           
